@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "새로운 블로그"
+date:  2020-07-03 01:00:00
+categories: etc
+tags: featured
+image: /assets/article_images/2020-07-03-new_start/night-track.JPG
+---
+
+# 블로그 이전<br><br>
+
+기존 [m0nday.tistory.com](https://m0nday.tistory.com) 에서 [pwnable.co.kr](http://blog.pwnable.co.kr) 로 블로그를 이전했습니당 <br>
+
+> - tistory --> github.io
+> - theme --> jjekyll
+
+tistory 테마를 사용하다가 오픈소스를 조금 더 다루어보고싶어서 JJekyll 을 사용해서 블로그를 꾸며 볼 생각입니다
+
+열심히 한번 잘 운영해보겠습니다.

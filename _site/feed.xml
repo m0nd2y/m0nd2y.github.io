@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>m0nd2y</title>
+    <description>(Lee Dong Jun)
+</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sat, 04 Jul 2020 00:46:46 +0900</pubDate>
+    <lastBuildDate>Sat, 04 Jul 2020 00:46:46 +0900</lastBuildDate>
+    <generator>Jekyll v3.8.7</generator>
+    
+      <item>
+        <title>새로운 블로그</title>
+        <description>&lt;h1 id=&quot;블로그-이전&quot;&gt;블로그 이전&lt;br /&gt;&lt;br /&gt;&lt;/h1&gt;
+
+&lt;p&gt;기존 &lt;a href=&quot;https://m0nday.tistory.com&quot;&gt;m0nday.tistory.com&lt;/a&gt; 에서 &lt;a href=&quot;http://blog.pwnable.co.kr&quot;&gt;pwnable.co.kr&lt;/a&gt; 로 블로그를 이전했습니당 &lt;br /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;ul&gt;
+    &lt;li&gt;tistory –&amp;gt; github.io&lt;/li&gt;
+    &lt;li&gt;theme –&amp;gt; jjekyll&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;tistory 테마를 사용하다가 오픈소스를 조금 더 다루어보고싶어서 JJekyll 을 사용해서 블로그를 꾸며 볼 생각입니다&lt;/p&gt;
+
+&lt;p&gt;열심히 한번 잘 운영해보겠습니다.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 03 Jul 2020 10:00:00 +0900</pubDate>
+        <link>http://localhost:4000/etc/2020/07/03/new_start.html</link>
+        <guid isPermaLink="true">http://localhost:4000/etc/2020/07/03/new_start.html</guid>
+        
+        <category>featured</category>
+        
+        
+        <category>etc</category>
+        
+      </item>
+    
+  </channel>
+</rss>
